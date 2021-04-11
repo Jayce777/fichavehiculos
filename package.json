@@ -1,0 +1,14 @@
+{
+  "name": "vehiculos",
+  "version": "0.0.1",
+  "description": "Obtiene la ficha de los vehiculos asociados a un propietario",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhonatan Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
