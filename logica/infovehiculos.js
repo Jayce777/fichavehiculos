@@ -164,6 +164,10 @@ const GuardarInfovehiculo=async(propietario,vehiculos,mostrar=false)=>{
                 
             }
            
+        }else{
+
+            ficha+=`No dispone de vehículos asociados\n`;
+
         }
 
       if(mostrar){
