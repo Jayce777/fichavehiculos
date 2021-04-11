@@ -5,7 +5,7 @@ const argv=require('yargs')
     'i',{
     alias:'identificacion',
     type:'string',
-    describe:'Indetificación de persona',
+    describe:'Identificación de persona',
     demandOption:true
 
     })
